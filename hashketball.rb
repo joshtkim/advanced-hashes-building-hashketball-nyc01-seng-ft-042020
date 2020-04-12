@@ -60,7 +60,8 @@ hasketball = {
         blocks:11,
         slam_dunks:1
       }
-    ],
+    ]
+  },
 #bookmark
 away:{
   team_name: "Charlotte Hornets",
@@ -122,6 +123,7 @@ away:{
       slam_dunks:12
     }
   ]
+}
 
 }
   binding.pry
