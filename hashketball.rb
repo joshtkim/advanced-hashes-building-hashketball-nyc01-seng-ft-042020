@@ -1,5 +1,5 @@
 require 'pry'
-
+def game_hash
 hasketball = {
   home:{
     team_name: "Brooklyn Nets",
@@ -126,7 +126,4 @@ away:{
 }
 
 }
-
-def game_hash(hash)
-  hasketball
 end
