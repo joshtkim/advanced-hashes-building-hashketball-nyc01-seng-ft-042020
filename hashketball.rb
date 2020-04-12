@@ -15,7 +15,7 @@ hasketball = {
         steals:3,
         blocks:1,
         slam_dunks:1
-      }
+      },
       {
         player_name:"Reggie Evans",
         number:30,
@@ -26,7 +26,7 @@ hasketball = {
         steals:12,
         blocks:12,
         slam_dunks:7
-      }
+      },
       {
         player_name:"Brook Lopez",
         number:11,
@@ -37,7 +37,7 @@ hasketball = {
         steals:3,
         blocks:1,
         slam_dunks:15
-      }
+      },
       {
         player_name:"Mason Plumlee",
         number:1,
@@ -48,7 +48,7 @@ hasketball = {
         steals:3,
         blocks:8,
         slam_dunks:5
-      }
+      },
       {
         player_name:"Jason Terry",
         number:31,
@@ -76,7 +76,7 @@ away:{
       steals:2,
       blocks:7,
       slam_dunks:2
-    }
+    },
     {
       player_name:"Bismack Biyombo",
       number:0,
@@ -87,7 +87,7 @@ away:{
       steals:22,
       blocks:15,
       slam_dunks:10
-    }
+    },
     {
       player_name:"Desagna Diop",
       number:2,
@@ -98,7 +98,7 @@ away:{
       steals:4,
       blocks:5,
       slam_dunks:5
-    }
+    },
     {
       player_name:"Ben Gordon",
       number:8,
@@ -109,7 +109,7 @@ away:{
       steals:1,
       blocks:1,
       slam_dunks:0
-    }
+    },
     {
       player_name:"Kemba Walker",
       number:33,
