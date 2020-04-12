@@ -126,7 +126,6 @@ away:{
 }
 
 }
-  binding.pry
 
 def game_hash(hash)
   hasketball
